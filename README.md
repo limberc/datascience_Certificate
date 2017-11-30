@@ -9,15 +9,15 @@ Personal Certificate Set.
 
 ### Pattern Discovery in Data Mining
 
-![](Pattern Discovery in Data Mining.png)
+![](pddm.png)
 
 ## Machine Learning
 
-![](Machine Learning.png)
+![](ml.png)
 
 ### Applied Machine Learning in Python
 
-![](applied ml.png)
+![](applied_ml.png)
 
 ## Deep Learning
 
