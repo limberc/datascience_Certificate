@@ -42,3 +42,11 @@ Personal Certificate Set.
 ### Graph Search, Shortest Paths, and Data Structures
 
 ![](ceretificates/Algorithm2.png)
+
+### Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+![](ceretificates/Algorithm3.png)
+
+### Probabilistic Graphical Models 2: Inference(With Honour)
+
+![](ceretificates/PGM2.png)
