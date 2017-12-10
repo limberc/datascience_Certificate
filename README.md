@@ -1,6 +1,12 @@
 # Data Science Certificate
 Personal Certificate Set.
 
+## Statistics
+
+### Bayesian Statistics: From Concept to Data Analysis(with honors)
+
+![](ceretificates\Bayes_stat.png)
+
 ## Data Mining
 
 ### Introduction to Data Science in Python
