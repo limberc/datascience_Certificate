@@ -5,7 +5,7 @@ Personal Certificate Set.
 
 ### Bayesian Statistics: From Concept to Data Analysis(with honors)
 
-![](ceretificates\bayes.png)
+![](ceretificates/bayes.png)
 
 ## Data Mining
 
