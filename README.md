@@ -39,6 +39,10 @@ Personal Certificate Set.
 
 ![](ceretificates/dl3.png)
 
+### Convolutional Neural Networks
+
+![](ceretificates/cnn.png)
+
 ## Algorithm
 
 ### Divide and Conquer, Sorting and Searching, and Randomized Algorithms
