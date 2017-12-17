@@ -1,6 +1,12 @@
 # Data Science Certificate
 Personal Certificate Set.
 
+## Tools
+
+### Using Python to Access Web Data
+
+![](ceretificates/accesswebdata.png)
+
 ## Statistics
 
 ### Bayesian Statistics: From Concept to Data Analysis(with honors)
