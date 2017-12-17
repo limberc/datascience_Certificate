@@ -5,64 +5,64 @@ Personal Certificate Set.
 
 ### Using Python to Access Web Data
 
-![](ceretificates/accesswebdata.png)
+![](certificates/accesswebdata.png)
 
 ## Statistics
 
 ### Bayesian Statistics: From Concept to Data Analysis(with honors)
 
-![](ceretificates/bayes.png)
+![](certificates/bayes.png)
 
 ## Data Mining
 
 ### Introduction to Data Science in Python
 
-![](ceretificates/ds101.png)
+![](certificates/ds101.png)
 
 ### Pattern Discovery in Data Mining
 
-![](ceretificates/pddm.png)
+![](certificates/pddm.png)
 
 ## Machine Learning
 
-![](ceretificates/ml.png)
+![](certificates/ml.png)
 
 ### Applied Machine Learning in Python
 
-![](ceretificates/applied_ml.png)
+![](certificates/applied_ml.png)
 
 ## Deep Learning
 
 ### Neural Networks and Deep Learning
 
-![Neural Networks and Deep Learning](ceretificates/dl1.png)
+![Neural Networks and Deep Learning](certificates/dl1.png)
 
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-![](ceretificates/dl2.png)
+![](certificates/dl2.png)
 
 ### Structuring Machine Learning Projects
 
-![](ceretificates/dl3.png)
+![](certificates/dl3.png)
 
 ### Convolutional Neural Networks
 
-![](ceretificates/cnn.png)
+![](certificates/cnn.png)
 
 ## Algorithm
 
 ### Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
-![](ceretificates/Algorithm1.png)
+![](certificates/Algorithm1.png)
 
 ### Graph Search, Shortest Paths, and Data Structures
 
-![](ceretificates/Algorithm2.png)
+![](certificates/Algorithm2.png)
 
 ### Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 
-![](ceretificates/Algorithm3.png)
+![](certificates/Algorithm3.png)
 
 ### Probabilistic Graphical Models 2: Inference(With Honour)
 
-![](ceretificates/PGM2.png)
+![](certificates/PGM2.png)
