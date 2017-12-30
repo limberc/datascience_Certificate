@@ -81,3 +81,7 @@ During this specialization, I have learned:
 ### Probabilistic Graphical Models 2: Inference(With Honour)
 
 ![](certificates/PGM2.png)
+
+### Probabilistic Graphical Models 3: Learning(With Honour)
+
+![](certificates/PGM3.png)
