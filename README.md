@@ -78,6 +78,14 @@ During this specialization, I have learned:
 
 ![](certificates/Algorithm3.png)
 
+### Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+
+![](certificates/Algorithm4.png)
+
+### Algorithm Specialization
+
+![](certificates/AlgorithmS.png)
+
 ### Probabilistic Graphical Models 1: Representation
 
 ![](certificates/PGM1.png)
