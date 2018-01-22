@@ -34,6 +34,10 @@ During this specialization, I have learned:
 
 ![](certificates/ds101.png)
 
+### Text Mining and Analytics
+
+![](certificates/text-minging.png)
+
 ### Pattern Discovery in Data Mining
 
 ![](certificates/pddm.png)
