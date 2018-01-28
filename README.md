@@ -70,6 +70,10 @@ During this specialization, I have learned:
 
 ## Algorithm
 
+### Algorithm on Graphs
+
+![](certificates/algo_graph.png)
+
 ### Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
 ![](certificates/Algorithm1.png)
