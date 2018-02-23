@@ -68,6 +68,14 @@ During this specialization, I have learned:
 
 ![](certificates/cnn.png)
 
+### Sequence Model
+
+![](certificates/dl5.png)
+
+### Deep Learning Specialization
+
+![](certificates/deeplearning.png)
+
 ## Algorithm
 
 ### Algorithm on Graphs
