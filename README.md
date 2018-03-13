@@ -42,6 +42,10 @@ During this specialization, I have learned:
 
 ![](certificates/pddm.png)
 
+### Text Retrieval and Search Engines
+
+![](certificates/Text-Retrieval-and-Search-Engines.png)
+
 ## Machine Learning
 
 ![](certificates/ml.png)
