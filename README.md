@@ -1,5 +1,6 @@
 # Data Science Certificate
 Personal Certificate Set about data science.
+To see the grade [here](certificates/certificates_with_grade.pdf)
 
 ## Udacity Data Analyst Specialization
 
